@@ -1,6 +1,6 @@
 - # TeamSCP Document
 
-  ###📁Folder format
+###📁Folder format
 
   - 프로젝트
      - 킥오프
@@ -8,7 +8,7 @@
      - 중간발표 2
      - 최종발표
 
-  ###✅ File format
+###✅ File format
   
   ### - 📕프로젝트
           - [팀이름].pdf
